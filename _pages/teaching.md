@@ -34,6 +34,6 @@ CPS Challenge.) Halmstad University, 2018.
 Students: Emil Johansson, Patrick Karlsson
 - Master Thesis: Generating Test Adapters for ModelJunit. Halmstad University, 2017. (Cosupervised)
 Student: Ardalan Hashemi Aghdam
-- Bachelor Thesis: On Efficiency and Effectiveness of Model-based Test Case Generation Techniques
-by Applying the HIS Method: An Experimental Research. Gothenburg University, 2016. (Cosupervised)
+- Bachelor Thesis: On Efficiency and Effectiveness of Model-based Test Case Generation Techniques
+by Applying the HSI Method: An Experimental Research. Gothenburg University, 2016. (Cosupervised)
 Students: Mahsa Abbasian, Sali El Masr
