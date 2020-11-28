@@ -20,7 +20,7 @@ teaching: true #jgkgjkg
 projects: true
 ---
 
-I am a postdoc at [Software Quality Research group](https://square.itu.dk/){:target="\_blank"} at IT University of Copenhagen. My research is mostly focused on quality assurance and safety of software systems. In my work I consider both theoretical and practical aspects of software testing that enhance the software quality and safety. I am interested in developing techniques that are tailored for real world systems and to bridge the gap between theory and practice of such techniques. Currently, I am working on automatic program repair for Linux kernel as a part of INSIGH project.
+I am a postdoc at [Software Quality Research group](https://square.itu.dk/){:target="\_blank"} at IT University of Copenhagen. My research is mostly focused on quality assurance and safety of software systems. In my work I consider both theoretical and practical aspects of software testing and verification. I am interested in developing techniques that are tailored for real world systems and to bridge the gap between theory and practice of such techniques. Currently, I am working on automatic program repair for Linux kernel as a part of INSIGH project.
 
 
 
