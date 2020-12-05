@@ -42,12 +42,12 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: # your GitHub user name
 twitter_username: MahsaVarshosaz
 linkedin_username: mahsa-varshosaz-1a455b1b9
-scholar_userid: Mahsa Varshosaz
+scholar_userid: eRzZ29QAAAAJ
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: Mahsa Varshosaz
+research_gate_profile: Mahsa_Varshosaz2
 blogger_url: # your blogger URL
 
 contact_note:
@@ -130,7 +130,7 @@ scholar:
   style: apa
   locale: en
   order: ascending
-  
+
   source: /_bibliography/
   bibliography: papers.bib
   bibliography_template: bib
