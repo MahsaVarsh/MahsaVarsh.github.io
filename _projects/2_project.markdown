@@ -4,7 +4,7 @@ title: INSIGHT
 description: Program repair with Static Insights
 img: /assets/img/Insight.png
 redirect: https://square.itu.dk/?page_id=654
-importance: 2
+importance: 1
 ---
 
 Every project has a beautiful feature showcase page.
