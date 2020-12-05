@@ -16,11 +16,11 @@ profile:
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 service: true #includes services
-teaching: true #jgkgjkg
+#teaching: true #jgkgjkg
 projects: true
 ---
 
-I am a postdoc in [Software Quality Research group](https://square.itu.dk/){:target="\_blank"} at IT University of Copenhagen. My research is mostly focused on quality assurance and safety of software systems. I am interested in both theoretical and practical aspects of modeling, testing and verification of software systems. I explor application of these techniques in different domains and have experience with application of such techniques for families of software systems also known as software product lines. Currently, I am working on automatic program repair for Linux kernel as a part of INSIGH project.
+I am a postdoc in [Software Quality Research group](https://square.itu.dk/){:target="\_blank"} at IT University of Copenhagen. My research is mostly focused on quality assurance and safety of software systems. I am interested in both theoretical and practical aspects of modeling, testing and verification of systems and the challenges in application of such techniques in different domains. I have experience with application of model-based testing techniques for families of software systems also known as software product lines. Currently, I am working on automatic program repair for Linux kernel as a part of INSIGH project.
 
 
 
