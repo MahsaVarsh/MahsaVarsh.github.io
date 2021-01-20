@@ -24,8 +24,8 @@ Fall 2018
 Fall 2012, Fall 2013
 
 `Thesis Supervision:`
-- PhD thesis: PhD Thesis: Automatic Program Repair for Linux, IT University of Copenhagen,
-Feb 2019-now (Co-supervised) Student: Alfredo Cruz
+- PhD thesis: Automatic Program Repair for Linux, IT University of Copenhagen,
+Feb 2019-present (Co-supervised) Student: Alfredo Cruz
 - Master thesis: Finding Resource Manipulation Bugs with Monitor Automata on the Example of
 the Linux Kernel, IT University of Copenhagen, Jan 2020-now (Co-supervised) Student: Anders
 Fischer-Nielsen
