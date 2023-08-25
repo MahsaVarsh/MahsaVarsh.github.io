@@ -2,13 +2,13 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: An overview of my teaching experience. 
+description: An overview of my teaching experience.
 nav: true
 ---
 `Lecturer:`
 - Introductory Programming (Graduate course), IT University of Copenhagen.
 2019-present
-- Testing and verication of embedded systems (Graduate course), Halmstad University.
+- Testing and verification of embedded systems (Graduate course), Halmstad University.
 2019-present
 
 `Thesis Supervision:`
