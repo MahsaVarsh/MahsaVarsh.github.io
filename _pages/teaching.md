@@ -18,7 +18,6 @@ nav: true
 - PhD thesis: Formal Methods for Safety Reliability and Explainability of Reinforcement Learning, IT University of Copenhagen, Nov 2021-present (Co-supervised) Student: Mohsen Ghaffari
 - PhD thesis: Automatic Program Repair for Linux, IT University of Copenhagen,
 Feb 2019-present (Co-supervised) Student: Alfredo Cruz
-
 -Master Thesis: Efficient discrete reinforcement learning,IT University of Copenhagen. 2023-presentStudent: Cong Chen- Master Thesis: Efficient Test Case Selection and Prioritization using Reinforcement Learning: Shure Example, IT University of Copenhagen. 2023-presentStudent: Simon Bejerholm Villadsen- Master Thesis: Finding Resource Manipulation Bugs on the Example of the Linux Kernel, IT University of Copenhagen. 2023-presentStudent: Fabio Domenico Luigi Voermans, Christian Cornelis Van Rossen- Master Thesis: Modeling and Testing Swarm Robotics, IT University of Copenhagen, IT University of Copenhagen. 2023-presentStudent: Szymon Adam Galecki
 - Master Thesis: Probtest: A Method for Effective Testing of Probabilistic Programs, IT University of Copenhagen. 2023 (Co-supervised)Students: Katrine Christensen
 -Master thesis: Efficient Regression Testing in Continuous Integration Pipelines. An Industrial Case Study, IT University of Copenhagen, 2022 (Supervisor) Student: Diego Joshua Martínez Pineda
