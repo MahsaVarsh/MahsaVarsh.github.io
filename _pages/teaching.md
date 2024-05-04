@@ -8,12 +8,14 @@ nav: true
 `Lecturer:`
 - Introductory Programming (Graduate course), IT University of Copenhagen.
 2019-present
-- Testing and verication of embedded systems (Graduate course), Halmstad University.
+- Advanced software Analysis (Graduate course), IT University of Copenhagen.
+2022-present
+- Testing and verification of embedded systems (Graduate course), Halmstad University.
 2019-present
 
 `Thesis Supervision:`
-- PhD thesis: PhD Thesis: Model-Based Probabilistic Testing for System-level Safety of Underwater Vision-controlled Robot, IT University of Copenhagen, Aug 2021-present (Supervisor) Student: Sergio Daniel Quijano
-- PhD thesis: PhD Thesis: Formal Methods for Safety Reliability and Explainability of Reinforcement Learning, IT University of Copenhagen, Nov 2021-present (Co-supervised) Student: Mohsen Ghaffari
+- PhD thesis: Model-Based Probabilistic Testing for System-level Safety of Underwater Vision-controlled Robot, IT University of Copenhagen, Aug 2021-present (Co-Supervised) Student: Sergio Daniel Quijano
+- PhD thesis: Formal Methods for Safety Reliability and Explainability of Reinforcement Learning, IT University of Copenhagen, Nov 2021-present (Co-supervised) Student: Mohsen Ghaffari
 - PhD thesis: Automatic Program Repair for Linux, IT University of Copenhagen,
 Feb 2019-present (Co-supervised) Student: Alfredo Cruz
 -Master thesis: Efficient Regression Testing in Continuous Integration Pipelines. An Industrial Case Study, IT University of Copenhagen, Sep 2021-June 2022 (Supervisor) Student: Diego Joshua Martínez Pineda
@@ -40,5 +42,5 @@ Fall 2014, Fall 2016, Fall 2017,Fall 2018
 Spring 2015, Spring 2016, Spring 2017
 - Distributed Systems Programming (Undergraduate course), Halmstad University.
 Fall 2018
-- Formal Modeling and Verication (Graduate course), University of Tehran.
+- Formal Modeling and Verification (Graduate course), University of Tehran.
 Fall 2012, Fall 2013
