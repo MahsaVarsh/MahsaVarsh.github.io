@@ -16,11 +16,11 @@ profile:
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 service: true #includes services
-talks: true #jgkgjkg
 projects: true
+talks: true #jgkgjkg
 ---
 
-I am an assistant professor in [Software Quality Research group](https://square.itu.dk/){:target="\_blank"} at IT University of Copenhagen. My research is mostly focused on quality assurance and safety of software systems. I am interested in both theoretical and practical aspects of modeling, testing and verification of systems and the challenges in application of such techniques in different domains. I have experience with application of model-based testing techniques for families of software systems also known as software product lines. My latest research includes testing of underwater robotic systems in REMARO project and automatic program repair for Linux kernel as a part of INSIGH project.
+I am an assistant professor in [Software Quality Research group](https://square.itu.dk/){:target="\_blank"} at IT University of Copenhagen. My research is mostly focused on quality assurance and safety of software systems. I am interested in both theoretical and practical aspects of modeling, testing and verification of systems and the challenges in application of such techniques in different domains. I have experience with application of model-based testing techniques for families of software systems also known as software product lines. My latest research includes testing of underwater robotic systems in REMARO project and automatic program repair for large code bases such as Linux kernel.
 
 
 
